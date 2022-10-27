@@ -5,3 +5,5 @@ Resources: https://docs.github.com/en/actions/using-workflows/events-that-trigge
 
 2. Ubuntu-latest has nodejs already there
    https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners
+3. Jobs sequential
+   [job1,job2]... to finish
